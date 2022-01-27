@@ -11,3 +11,8 @@
 ## Commands to run the model 
 - For an image: python object_detection_yolo.py --image=bird.jpg
 -  For a video:  python object_detection_yolo.py --video=cars.mp4
+
+---
+## Output
+
+![ ](https://github.com/j4real2208/YoloCar-LPR/blob/main/OutPut-Images/out_proc.png)
