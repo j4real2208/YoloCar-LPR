@@ -1,6 +1,8 @@
 # YoloCar-LPR
  Detecting the Car Plate number using YoloV3
-
+## PreReq 
+- Python v3
+- Model weight :- `https://drive.google.com/file/d/1kMAjPHsxz-AMdDZWSV-g5R0MpE5c7_9P/view?usp=sharing`
 ## Description 
 
 - This project is a light wight license plate recognition model build on `YOLOv3 ` and `Tesseract OCR`.
